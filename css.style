@@ -38,6 +38,11 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.kategori-item img {
+  width: 100%;
+  border-radius: 8px;
+}
+
 .kategori-item button {
   margin: 0.2rem 0 1rem;
   padding: 0.5rem 1rem;
